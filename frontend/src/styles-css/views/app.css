@@ -1,0 +1,22 @@
+/* body {
+  background-color: rgb(190, 245, 245);
+} */
+
+.app-container {
+  min-height: 100vh;
+}
+
+.toy-app-container {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.toy-app-container h1 {
+  color: rgb(233, 113, 197);
+  font-weight: bold;
+  font-size: 28px;
+}

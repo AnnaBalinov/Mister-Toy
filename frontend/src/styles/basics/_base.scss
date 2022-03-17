@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    /* text-align: center; */
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+li {
+    cursor: pointer;
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

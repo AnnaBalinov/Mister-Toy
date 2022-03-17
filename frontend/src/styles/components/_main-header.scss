@@ -1,0 +1,25 @@
+.main-header {
+    background-color: #f0ae6c;
+    color: #ffff;
+    padding: 35px;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-header .link:hover {
+    color: #7576aa;
+}
+
+.logo {
+    cursor: pointer;
+    font-size: 32px;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+.toy-preview {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(161, 160, 160);
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.toy-preview .info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.toy-preview .btn {
+    display: flex;
+    gap: 10px;
+}
+
+.toy-preview .price {
+    color: rgb(231, 105, 56);
+}
